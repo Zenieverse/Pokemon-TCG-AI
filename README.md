@@ -3,7 +3,7 @@ Interactive Pokémon TCG AI Strategy & Battle Simulator powered by Information-S
 Recommended GitHub Topics / Tags:
 pokemon-tcg · monte-carlo-tree-search · game-ai · bayesian-inference · imperfect-information · gemini-api · react · typescript · tailwind-css · simulation
 
-📄 GitHub README Header & Badges
+📄 
 code
 Markdown
 # ⚡ Pokémon TCG AI Battle Challenge & Strategy Lab
