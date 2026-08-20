@@ -1,0 +1,8 @@
+{
+  "name": "Pokémon TCG AI Battle Challenge & Strategy Lab",
+  "description": "Interactive Pokémon TCG AI Strategy & Battle Simulator with MCTS Belief Tree, Imperfect Information Engine, Meta Archetype Analysis, and Turn-by-Turn AI Decision Explainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
