@@ -4,8 +4,6 @@ Recommended GitHub Topics / Tags:
 pokemon-tcg · monte-carlo-tree-search · game-ai · bayesian-inference · imperfect-information · gemini-api · react · typescript · tailwind-css · simulation
 
 📄 
-code
-Markdown
 # ⚡ Pokémon TCG AI Battle Challenge & Strategy Lab
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
